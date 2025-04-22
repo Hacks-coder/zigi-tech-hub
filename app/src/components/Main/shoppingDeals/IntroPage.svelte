@@ -1,7 +1,5 @@
 <script>
 	import Fill from "../../UI/Buttons/Fill.svelte";
-
-
 	import Title from "../../UI/Texts/Title.svelte";
 
 </script>
@@ -15,3 +13,4 @@
         <img src="/products/img1.jpg" alt="">
     </div>
 </section>
+
